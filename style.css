@@ -1,0 +1,28 @@
+.row{
+    text-align: center;
+    font-size: 2rem;
+    border: none;
+    color: #000;
+}
+.row div{
+    margin: 0.25rem;
+}
+
+.col{
+    background:#48e ;
+}
+.col-sm{
+    background:yellow;
+}
+.col-md{
+    background:#00f;
+}
+.col-lg{
+    background:#0f0;
+}
+.col-xl{
+    background:#8de;
+}
+.col-xxl{
+    background:#54d;
+}
